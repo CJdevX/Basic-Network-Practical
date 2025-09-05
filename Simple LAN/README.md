@@ -48,4 +48,5 @@ PC4:
   Every PC Connectivity must be Successful.  
     Ex :- PC1 → PC2
 
-See [topology](img/topology.png).
+<img src="img/topology.png" alt="topology" width="800">
+<img src="img/ping.png" alt="ping" width="400">
