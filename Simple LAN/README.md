@@ -47,3 +47,5 @@ PC4:
 ## ✅ Expected Result
   Every PC Connectivity must be Successful.  
     Ex :- PC1 → PC2
+
+See [topology](img/topology.png).
