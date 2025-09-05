@@ -45,5 +45,5 @@ PC4:
 - Packet Tracer: Click on the PC → Desktop → IP Configuration
 
 ## ✅ Expected Result
-  Every PC Connectivity must be Successful.
+  Every PC Connectivity must be Successful.  
     Ex :- PC1 → PC2
