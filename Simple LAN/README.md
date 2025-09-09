@@ -1,11 +1,11 @@
 # Simple LAN Network
 
 ## 🎯 Objective
-Set up a very basic Local Area Network(LAN) with:
+Set up a very basic Local Area Network(LAN)
+
+## 🖥️ Components
 - 1 Switch
 - 5 PCs
-- Static IP Configuration
-- Verify Connectivity with ping
 
 ## 🛠️ Build Guide
 1. Connect PCs to the switch using Straight Through Cable.
