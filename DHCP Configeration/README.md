@@ -15,11 +15,11 @@ Provide Automatic IP Addresses to LAN PCs using a DHCP Server.
   
 ### Step 1 – DHCP Configurations
 - Packet Tracer: Click on the Server → Services → DHCP
-<img src="img/1.png" alt="DHCP Configurations" width="800">
+<img src="img/1.png" alt="DHCP Configurations" width="600">
 
 ### Step 2 – PC Configurations
 - Packet Tracer: Click on the PC → Desktop → Select DHCP
-<img src="img/2.png" alt="PC Configurations" width="800">
+<img src="img/2.png" alt="PC Configurations" width="600">
 
 ## ✅ Expected Result
 - Every PCs Should Automatically Get IPs from 192.168.1.100 - 200 Range & Subnet Mask.
@@ -27,5 +27,5 @@ Provide Automatic IP Addresses to LAN PCs using a DHCP Server.
 
 ---
 
-<img src="img/diagram.png" alt="ping" width="400">
+<img src="img/diagram.png" alt="ping" width="800">
 <img src="img/ping.png" alt="ping" width="400">
