@@ -19,19 +19,19 @@ Configure a Simple DNS.
 - Packet Tracer: Click on the Server → Services → DNS → Add a Record
 - `www.google.com` → 192.168.1.100
 - `www.youtube.com` → 192.168.1.200
-<img src="img/1.png" alt="DNS Configuration" width="800"></td>
+<img src="img/1.png" alt="DNS Configuration" width="600">
 
 - Packet Tracer: Click on the Server → Desktop → IP Configuration
-<img src="img/2.png" alt="DNS Configuration" width="800">
+<img src="img/2.png" alt="DNS Configuration" width="600">
 
 
 ### Step 2 – Normal Server Configuration
 - Packet Tracer: Click on the Server → Desktop → IP Configuration
-<img src="img/3.png" alt="Server Configuration" width="800">
+<img src="img/3.png" alt="Server Configuration" width="600">
 
 
 - (Optional)Packet Tracer: Click on the Server → Services → HTTP → Click Edit on 'index.html' → Edit html Code
-<img src="img/4.png" alt="Server Configuration" width="800">
+<img src="img/4.png" alt="Server Configuration" width="600">
 
 ### Step 3 – PC Configuration
 - Packet Tracer: Click on the PC → Desktop → IP Configuration
@@ -54,7 +54,7 @@ PC3:
 PC4:
 - IP: 192.168.1.5/24
 - DNS: 192.168.1.254
-<img src="img/5.png" alt="PC Configuration" width="800">
+<img src="img/5.png" alt="PC Configuration" width="600">
 
 
 ## ✅ Expected Result
@@ -63,5 +63,5 @@ PC4:
 
 ---
 
-<img src="img/diagram.png" alt="ping" width="400">
+<img src="img/diagram.png" alt="ping" width="800">
 <img src="img/ping.png" alt="ping" width="400">
